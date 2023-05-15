@@ -1,0 +1,96 @@
+.khung
+  {
+    width: 600px;
+   height: 300px;
+    margin: 0px auto;
+    background-color: #DEE1E6;
+  }
+  .hoten
+  {
+    position: relative;
+    bottom: 40px;
+    left: 140px;
+    font-size: 25px;
+  }
+  .the1
+  {
+    width: 100%;
+   
+    height: 30px;
+    
+  }
+  .lop
+  {
+    position: relative;
+    bottom: 40px;
+    left: 160px;
+    font-size: 25px;
+  }
+  .lop1
+  {
+    position: relative;
+    bottom: 40px;
+    left: 60px;
+    font-size: 25px;
+  }
+  a
+  {
+    position: relative;
+    font-size: 20px;
+    
+  }
+  a:hover
+  {
+      text-decoration: none;
+  }
+  .fa-address-book
+  {
+    font-size: 40px;
+  }
+  .a1
+  {
+  display: block;
+  position: relative;
+  bottom: 20px;
+  }
+  .a2
+  {
+    position: relative;
+    bottom: 40px;
+  }
+  .tsv
+  {
+    position: relative;
+    width: 100%;
+    height: 50px;
+
+    bottom: 20px;
+  }
+  .te
+  {
+    margin-bottom: 20px;
+  }
+  .khungsp
+  {
+    width: 800px;
+    height: auto;
+    margin: 0px auto;
+    
+  }
+  .bang
+  {
+    width: 700px;
+    height: 100px;
+  }
+  .khungsp1
+    {
+        width: 500px;
+        height: 400px;
+        background-color: #F1F3F4;
+        margin: 0px auto;
+    }
+  .them
+  {
+    width: 90px;
+  }
+    
